@@ -1,0 +1,84 @@
+body {
+    background-color: #41B3A2;
+    font-family: "Itim", cursive;
+    line-height: 1.6;
+    letter-spacing: 0.05rem;
+  }
+  .temp {
+    text-align: center;
+  }
+  #input{
+    margin-top: 40px;
+    border : none;
+    box-shadow: 10px 10px #13e950;
+    margin-bottom: 40px;
+    width: 300px;
+    height: 70px;
+    text-align: center;
+    font-weight:bold;
+    font-size: 2rem;
+
+  }
+  input {
+    accent-color: #13e950;
+    background-color: #BDE8CA;
+  }
+  #input:hover {
+    box-shadow: 10px 10px #29f165;
+  }
+  input:focus {
+    outline-style: none;
+    box-shadow: none;
+  }
+  label {
+    font-size: 2.5rem;
+    font-weight: 500;
+    cursor: pointer;
+  }
+  h2 {
+    font-family: "Itim", cursive;
+    font-size  : 3.5rem;
+  }
+  
+  button {
+    font-family: "Itim", cursive;
+    margin-top: 40px;
+    background-color: #BDE8CA;
+    border: none;
+    padding: 15px 15px;
+    border-radius: 10px;
+    cursor: pointer;
+    font-weight: bold;
+    font-size : 2rem;
+  }
+  button:hover {
+    color: #13e950;
+  }
+  #result{
+    font-size : 6rem;
+    color: #f21313;
+  }
+  #CtoF {
+  margin-top: 40px;
+  width: 20px;
+  height: 30px;
+  }
+  #FtoC {
+    width: 20px;
+    height: 30px;
+  }
+  span {
+    color: #EC8305;
+}
+
+#footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: center;
+    letter-spacing: 0.02em;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.5rem;
+  }
