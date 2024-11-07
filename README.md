@@ -24,7 +24,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/abdulkadir023/Temperature-Converter](https://github.com/abdulkadir023/Temperature-Converter)
-- Live Site URL: [https://counter-abdulkadir023s-projects.vercel.app/](https://counter-abdulkadir023s-projects.vercel.app/)
+- Live Site URL: [https://my-temperature-converter.vercel.app/](https://my-temperature-converter.vercel.app/)
 
 ## Author
 
